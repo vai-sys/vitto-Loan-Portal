@@ -109,7 +109,7 @@ export default function ApplyPage({ toast }) {
           <Field label="Full Name" error={errors.name}>
             <input
               type="text"
-              placeholder="e.g. Priya Sharma"
+              placeholder="e.g. Vaishnavi Thorat"
               className={inputCls}
               value={form.name}
               onChange={(e) => set("name", e.target.value)}
