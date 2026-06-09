@@ -3,7 +3,9 @@
 A full-stack loan application portal. Borrowers submit loan applications in their preferred language; agents review and update statuses from a live dashboard.
 
 **🌐 Live App:** `https://vitto-loan-portal-jad6.vercel.app/`
+
 **⚙️ API:** `https://vitto-loan-portal-1nfm.onrender.com`
+
 **🎥 Video Walkthrough:** ` https://drive.google.com/file/d/1q_i1-wzQgim3fWx5j2dMhzlghR-MKjjz/view?usp=sharing`
 
 ---
